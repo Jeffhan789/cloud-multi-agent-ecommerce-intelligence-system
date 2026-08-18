@@ -61,3 +61,7 @@ Thumbs.db
 # Misc
 *.bak
 *.tmp
+
+# Private learning dirs & local-only files - never push to public repo
+3.2-私人学习/
+CHANGELOG_版本更新历史.md
